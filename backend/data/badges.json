@@ -1,0 +1,72 @@
+{
+  "FIRST_QUIZ": {
+    "name": "First Quiz",
+    "description": "Completed your first animal quiz.",
+    "icon": "📝"
+  },
+  "PERFECT_QUIZ": {
+    "name": "Perfect Score",
+    "description": "Got every question correct on an animal quiz.",
+    "icon": "💯"
+  },
+  "EXPLORER_10": {
+    "name": "Full Explorer",
+    "description": "Discovered all 10 animals.",
+    "icon": "🌍"
+  },
+  "FLASHCARD_SET": {
+    "name": "Flashcard Finisher",
+    "description": "Completed a full flashcard set.",
+    "icon": "📚"
+  },
+  "MATCH_COMPLETE": {
+    "name": "Match Master",
+    "description": "Completed a match game.",
+    "icon": "🎯"
+  },
+  "MATCH_PERFECT": {
+    "name": "Flawless Match",
+    "description": "Completed a match game in under 30 seconds with no penalties.",
+    "icon": "⚡"
+  },
+  "BIOQUIZ_PARTICIPANT": {
+    "name": "BioQuiz Player",
+    "description": "Participated in a BioQuiz game.",
+    "icon": "🎮"
+  },
+  "BIOQUIZ_WINNER": {
+    "name": "BioQuiz Champion",
+    "description": "Placed #1 in a BioQuiz game.",
+    "icon": "🏆"
+  },
+  "POINTS_1K": {
+    "name": "Rising Star",
+    "description": "Reached 1,000 total points.",
+    "icon": "⭐"
+  },
+  "POINTS_5K": {
+    "name": "Wildlife Scholar",
+    "description": "Reached 5,000 total points.",
+    "icon": "🌟"
+  },
+  "POINTS_10K": {
+    "name": "Wildlife Expert",
+    "description": "Reached 10,000 total points.",
+    "icon": "🔥"
+  },
+  "POINTS_50K": {
+    "name": "Wildlife Legend",
+    "description": "Reached 50,000 total points.",
+    "icon": "👑"
+  },
+  "ASSIGNMENT_COMPLETE": {
+    "name": "Top Student",
+    "description": "Completed a class assignment.",
+    "icon": "🎓"
+  },
+  "FIRST_FAVORITE": {
+    "name": "Animal Lover",
+    "description": "Added an animal to your favorites.",
+    "icon": "❤️"
+  }
+}

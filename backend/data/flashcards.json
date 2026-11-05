@@ -1,0 +1,398 @@
+{
+  "Mammal": [
+    {
+      "term": "Endotherm",
+      "definition": "An animal that generates its own body heat internally, maintaining a stable internal temperature regardless of environment."
+    },
+    {
+      "term": "Mammary glands",
+      "definition": "Specialized organs found in female mammals that produce milk to nourish offspring."
+    },
+    {
+      "term": "Neocortex",
+      "definition": "The outer layer of the mammalian brain responsible for higher-order functions like perception, cognition, and language."
+    },
+    {
+      "term": "Placenta",
+      "definition": "An organ that develops in the uterus during pregnancy, providing oxygen and nutrients to the fetus and removing waste."
+    },
+    {
+      "term": "Echolocation",
+      "definition": "A biological sonar system used by some mammals (e.g., bats, dolphins) to navigate and locate prey using sound waves."
+    },
+    {
+      "term": "Hibernation",
+      "definition": "A state of prolonged inactivity and metabolic depression in response to cold and food scarcity."
+    },
+    {
+      "term": "Convergent evolution",
+      "definition": "The process by which unrelated species independently evolve similar traits due to similar environmental pressures."
+    },
+    {
+      "term": "Ruminant",
+      "definition": "A mammal that digests plant-based food by first softening it in the first stomach, then regurgitating and chewing it again."
+    },
+    {
+      "term": "Pheromone",
+      "definition": "A chemical signal secreted by an animal that triggers a response in another member of the same species."
+    },
+    {
+      "term": "Sexual dimorphism",
+      "definition": "A condition where males and females of the same species exhibit different physical characteristics beyond sex organs."
+    },
+    {
+      "term": "Marsupial",
+      "definition": "A mammal whose young are born at an early stage of development and typically complete development in a pouch on the mother's belly."
+    },
+    {
+      "term": "Monotreme",
+      "definition": "An egg-laying mammal, such as the platypus or echidna, representing the most primitive group of living mammals."
+    },
+    {
+      "term": "Keystone species",
+      "definition": "A species that has a disproportionately large effect on its ecosystem relative to its abundance."
+    },
+    {
+      "term": "Mutualism",
+      "definition": "A symbiotic relationship where both species benefit from the interaction."
+    },
+    {
+      "term": "Migration",
+      "definition": "The seasonal movement of animals from one region to another for feeding, breeding, or climate reasons."
+    },
+    {
+      "term": "Apex predator",
+      "definition": "A predator at the top of its food chain with no natural predators of its own."
+    }
+  ],
+  "Bird": [
+    {
+      "term": "Syrinx",
+      "definition": "The vocal organ of birds, located at the base of the trachea, enabling complex song production."
+    },
+    {
+      "term": "Precocial",
+      "definition": "Describing birds whose chicks are hatched with open eyes and are capable of independent movement shortly after birth."
+    },
+    {
+      "term": "Altricial",
+      "definition": "Describing birds whose chicks are hatched helpless, blind, and requiring extended parental care."
+    },
+    {
+      "term": "Contour feathers",
+      "definition": "The outermost feathers of a bird that define its shape and provide aerodynamic surfaces for flight."
+    },
+    {
+      "term": "Pneumatic bones",
+      "definition": "Hollow, air-filled bones found in birds that reduce body weight and aid in flight."
+    },
+    {
+      "term": "Brood parasitism",
+      "definition": "A reproductive strategy where a bird lays its eggs in another species' nest, leaving the host to raise its young."
+    },
+    {
+      "term": "Torpor",
+      "definition": "A short-term state of reduced metabolic activity in birds, used to conserve energy during cold nights."
+    },
+    {
+      "term": "Uropygial gland",
+      "definition": "A gland near the tail base that produces oil birds use to preen and waterproof their feathers."
+    },
+    {
+      "term": "Passerine",
+      "definition": "The largest order of birds, commonly called perching birds or songbirds, characterized by feet adapted for gripping branches."
+    },
+    {
+      "term": "Mobbing behavior",
+      "definition": "When smaller birds collectively harass or chase away a larger predator to protect their territory or young."
+    },
+    {
+      "term": "Lekking",
+      "definition": "A communal courtship display in which male birds gather to compete for and attract females."
+    },
+    {
+      "term": "Imprinting",
+      "definition": "A rapid learning process in young birds where they form an attachment to the first moving object they see after hatching."
+    },
+    {
+      "term": "Magnetic navigation",
+      "definition": "The ability of birds to sense Earth's magnetic field and use it as a compass during migration."
+    },
+    {
+      "term": "Crop",
+      "definition": "A muscular pouch near the throat where birds temporarily store food before it passes to the stomach."
+    },
+    {
+      "term": "Molt",
+      "definition": "The periodic shedding and replacement of feathers, often timed around breeding seasons or migration."
+    },
+    {
+      "term": "Territory",
+      "definition": "An area defended by a bird against others of the same species, typically for the purpose of nesting and feeding."
+    }
+  ],
+  "Amphibian": [
+    {
+      "term": "Metamorphosis",
+      "definition": "The biological process by which amphibians transform from an aquatic larval form (e.g., tadpole) into a terrestrial adult form."
+    },
+    {
+      "term": "Cutaneous respiration",
+      "definition": "Gas exchange that occurs through the skin, allowing amphibians to absorb oxygen and release carbon dioxide directly."
+    },
+    {
+      "term": "Aposematism",
+      "definition": "The use of bright warning colors by animals like poison dart frogs to signal toxicity or danger to predators."
+    },
+    {
+      "term": "Neoteny",
+      "definition": "The retention of juvenile traits into adulthood, as seen in axolotls which remain permanently in their larval aquatic form."
+    },
+    {
+      "term": "Amplexus",
+      "definition": "The mating embrace in amphibians where the male grasps the female to externally fertilize her eggs as she lays them."
+    },
+    {
+      "term": "Estivation",
+      "definition": "A period of dormancy similar to hibernation, used by amphibians to survive hot and dry seasonal conditions."
+    },
+    {
+      "term": "Parotoid glands",
+      "definition": "Large, external glands on the shoulders of toads and some salamanders that secrete toxic or irritating substances."
+    },
+    {
+      "term": "Permeable skin",
+      "definition": "Amphibian skin that allows water and gases to pass through, making amphibians highly sensitive to environmental pollutants."
+    },
+    {
+      "term": "Chytrid fungus",
+      "definition": "A pathogenic fungus (Batrachochytrium dendrobatidis) responsible for chytridiomycosis, a disease causing mass amphibian die-offs worldwide."
+    },
+    {
+      "term": "Lateral line system",
+      "definition": "A sensory organ in larval amphibians that detects vibrations and pressure changes in water."
+    },
+    {
+      "term": "Direct development",
+      "definition": "A reproductive strategy in some amphibians where eggs hatch directly into miniature adults, bypassing the larval stage."
+    },
+    {
+      "term": "Bioindicator",
+      "definition": "An organism whose presence, absence, or health reflects the condition of its surrounding environment, often used to assess ecosystem health."
+    },
+    {
+      "term": "Tympanum",
+      "definition": "The external eardrum of frogs and toads, visible as a circular disc behind the eye, used to detect sound vibrations."
+    },
+    {
+      "term": "Caecilian",
+      "definition": "A limbless, burrowing amphibian that resembles a worm or snake and is the least known of the three amphibian orders."
+    },
+    {
+      "term": "Urodela",
+      "definition": "The order of amphibians that includes salamanders and newts, characterized by retaining their tail through adulthood."
+    },
+    {
+      "term": "Anura",
+      "definition": "The order of amphibians that includes frogs and toads, characterized by the absence of a tail in adulthood."
+    }
+  ],
+  "Reptile": [
+    {
+      "term": "Ectotherm",
+      "definition": "An animal that relies on external heat sources to regulate body temperature, commonly called 'cold-blooded'."
+    },
+    {
+      "term": "Jacobson's organ",
+      "definition": "A chemoreceptor organ in the roof of the mouth of reptiles like snakes and lizards that detects scent particles from the tongue."
+    },
+    {
+      "term": "Amniotic egg",
+      "definition": "An egg with a fluid-filled membrane (amnion) that protects the embryo and allows reptiles to reproduce on land."
+    },
+    {
+      "term": "Scutes",
+      "definition": "Bony external plates or scales, such as those covering a turtle's shell or a crocodilian's back."
+    },
+    {
+      "term": "Autotomy",
+      "definition": "The ability of some lizards to voluntarily shed their tail as a defense mechanism, which later regenerates."
+    },
+    {
+      "term": "Pit organs",
+      "definition": "Heat-sensing organs found in pit vipers and pythons that detect infrared radiation to locate warm-blooded prey."
+    },
+    {
+      "term": "Thermoregulation",
+      "definition": "The process by which reptiles control their body temperature by moving between warm and cool environments."
+    },
+    {
+      "term": "Hemipenes",
+      "definition": "The paired reproductive organs of male snakes and lizards, only one of which is used during mating."
+    },
+    {
+      "term": "Parthenogenesis",
+      "definition": "A form of asexual reproduction where offspring develop from unfertilized eggs, observed in some reptile species."
+    },
+    {
+      "term": "Osteoderms",
+      "definition": "Bony deposits within the skin of some reptiles such as crocodilians and some lizards that form a type of armor."
+    },
+    {
+      "term": "Brumation",
+      "definition": "A state of sluggishness or dormancy in reptiles triggered by cold temperatures, similar to mammalian hibernation."
+    },
+    {
+      "term": "Chemoreception",
+      "definition": "The ability to detect chemical stimuli in the environment, heavily utilized by reptiles through the tongue and Jacobson's organ."
+    },
+    {
+      "term": "Squamata",
+      "definition": "The largest order of reptiles, comprising lizards and snakes, characterized by overlapping scales."
+    },
+    {
+      "term": "Testudines",
+      "definition": "The order of reptiles that includes turtles and tortoises, characterized by a bony or cartilaginous shell."
+    },
+    {
+      "term": "Lateral undulation",
+      "definition": "The most common form of snake locomotion in which the body moves in alternating S-shaped curves against surface irregularities."
+    },
+    {
+      "term": "Crocodilia",
+      "definition": "An order of large, semi-aquatic reptiles that includes crocodiles, alligators, and gharials, among the oldest living reptile lineages."
+    }
+  ],
+  "Fish": [
+    {
+      "term": "Lateral line",
+      "definition": "A sensory system in fish that detects vibrations, pressure changes, and movement in the surrounding water."
+    },
+    {
+      "term": "Operculum",
+      "definition": "A bony flap covering and protecting the gills of bony fish, also involved in the pumping of water over the gills."
+    },
+    {
+      "term": "Countercurrent exchange",
+      "definition": "A mechanism in fish gills where blood and water flow in opposite directions, maximizing oxygen absorption efficiency."
+    },
+    {
+      "term": "Swim bladder",
+      "definition": "A gas-filled organ in bony fish that provides buoyancy, allowing the fish to maintain depth without constant swimming."
+    },
+    {
+      "term": "Anadromous",
+      "definition": "Describing fish such as salmon that migrate from saltwater to freshwater to spawn."
+    },
+    {
+      "term": "Catadromous",
+      "definition": "Describing fish such as eels that migrate from freshwater to saltwater to spawn."
+    },
+    {
+      "term": "Chromatophores",
+      "definition": "Pigment-containing cells in fish skin that allow for rapid color changes used in camouflage and communication."
+    },
+    {
+      "term": "Electroreception",
+      "definition": "The ability of some fish to detect electric fields in the water, used for navigation, prey detection, and communication."
+    },
+    {
+      "term": "Oviparous",
+      "definition": "A reproductive strategy where eggs are laid and develop outside the mother's body, common in most fish species."
+    },
+    {
+      "term": "Ovoviviparous",
+      "definition": "A reproductive mode where eggs develop inside the mother's body but receive no direct nutrition from her, hatching internally."
+    },
+    {
+      "term": "Benthic",
+      "definition": "Relating to or occurring at the bottom of a body of water; benthic fish live and feed on or near the seafloor."
+    },
+    {
+      "term": "Pelagic",
+      "definition": "Relating to the open water column away from the shore and seafloor; pelagic fish live and feed in open water."
+    },
+    {
+      "term": "Osmoregulation",
+      "definition": "The process by which fish maintain appropriate concentrations of water and salts in their bodies relative to their environment."
+    },
+    {
+      "term": "Spawning",
+      "definition": "The release of eggs and sperm into water for fertilization, the primary reproductive method of most fish species."
+    },
+    {
+      "term": "Ichthyology",
+      "definition": "The scientific study of fish, including their biology, behavior, ecology, and classification."
+    },
+    {
+      "term": "Cartilaginous fish",
+      "definition": "A class of fish (Chondrichthyes) including sharks and rays, whose skeleton is made of cartilage rather than bone."
+    }
+  ],
+  "Invertebrate": [
+    {
+      "term": "Exoskeleton",
+      "definition": "A rigid external skeleton found in invertebrates such as insects and crustaceans that provides structure and protection."
+    },
+    {
+      "term": "Molting",
+      "definition": "The process by which invertebrates shed their exoskeleton to grow, producing a new, larger one underneath."
+    },
+    {
+      "term": "Cephalothorax",
+      "definition": "A fused head and thorax region found in arachnids and crustaceans."
+    },
+    {
+      "term": "Cnidocyte",
+      "definition": "A specialized stinging cell found in cnidarians (jellyfish, corals, anemones) used to capture prey and deter predators."
+    },
+    {
+      "term": "Radula",
+      "definition": "A ribbon-like feeding structure with tiny teeth found in most mollusks, used to scrape food from surfaces."
+    },
+    {
+      "term": "Echinoderms",
+      "definition": "A phylum of marine invertebrates including starfish and sea urchins, characterized by five-fold symmetry and a water vascular system."
+    },
+    {
+      "term": "Complete metamorphosis",
+      "definition": "A four-stage development process in insects (egg → larva → pupa → adult) also known as holometabolism."
+    },
+    {
+      "term": "Incomplete metamorphosis",
+      "definition": "A three-stage development process in insects (egg → nymph → adult) where the nymph resembles a small adult, also known as hemimetabolism."
+    },
+    {
+      "term": "Mantle",
+      "definition": "A layer of tissue in mollusks that covers the body and secretes the shell, and in cephalopods also assists in jet propulsion."
+    },
+    {
+      "term": "Compound eye",
+      "definition": "A type of eye found in insects and crustaceans made up of thousands of individual visual units (ommatidia), providing wide-angle vision."
+    },
+    {
+      "term": "Segmentation",
+      "definition": "The division of an animal's body into repeated sections or segments, as seen in annelids, arthropods, and some other invertebrates."
+    },
+    {
+      "term": "Book lungs",
+      "definition": "Layered breathing organs found in arachnids that allow gas exchange between air and the circulatory system."
+    },
+    {
+      "term": "Siphon",
+      "definition": "A tube-like structure in mollusks used to draw in or expel water, aiding in respiration, feeding, or jet propulsion."
+    },
+    {
+      "term": "Tracheal system",
+      "definition": "A network of air-filled tubes in insects that delivers oxygen directly to cells, bypassing the need for a circulatory oxygen carrier."
+    },
+    {
+      "term": "Colonial organism",
+      "definition": "An entity made up of many individual organisms (zooids) living and working together as a single unit, such as coral."
+    },
+    {
+      "term": "Chitin",
+      "definition": "A tough, semi-transparent polysaccharide that forms the primary structural component of arthropod exoskeletons and fungal cell walls."
+    }
+  ]
+}

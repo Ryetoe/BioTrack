@@ -1,0 +1,6 @@
+.*
+__pycache__
+venv
+backend/data/users.json
+frontend/node_modules
+logo

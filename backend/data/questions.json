@@ -1,0 +1,1642 @@
+{
+  "1": [
+    {
+      "question": "What country is the bald eagle the national symbol of?",
+      "options": [
+        "Canada",
+        "United States",
+        "Mexico",
+        "United Kingdom"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How fast can bald eagles fly when diving for prey?",
+      "options": [
+        "40 mph",
+        "60 mph",
+        "80 mph",
+        "100 mph"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How much can a bald eagle nest weigh?",
+      "options": [
+        "50 pounds",
+        "200 pounds",
+        "500 pounds",
+        "Over 2 tons"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the conservation status of the bald eagle?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why is the bald eagle called 'bald'?",
+      "options": [
+        "It has no feathers on its head",
+        "An old word meaning white-headed",
+        "It loses feathers with age",
+        "It was named after a scientist named Bald"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How sharp is a bald eagle's eyesight compared to humans?",
+      "options": [
+        "About the same",
+        "2 times sharper",
+        "4-8 times sharper",
+        "20 times sharper"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What year was the bald eagle removed from the U.S. endangered species list?",
+      "options": [
+        "1995",
+        "2001",
+        "2007",
+        "2015"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is true about bald eagle mating behavior?",
+      "options": [
+        "They find new mates every year",
+        "They mate for life",
+        "Only males build nests",
+        "They never reuse nests"
+      ],
+      "answer": 1
+    }
+  ],
+  "2": [
+    {
+      "question": "What extraordinary ability are axolotls most famous for?",
+      "options": [
+        "Changing color like a chameleon",
+        "Regenerating limbs and organs",
+        "Producing venom",
+        "Breathing fire"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are axolotls found in the wild?",
+      "options": [
+        "Amazon River, Brazil",
+        "Lake Xochimilco, Mexico",
+        "Florida Everglades, USA",
+        "Great Barrier Reef, Australia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is unique about the axolotl life cycle compared to other salamanders?",
+      "options": [
+        "They metamorphose twice",
+        "They never undergo metamorphosis",
+        "They live on land as adults",
+        "They only live for one year"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the axolotl?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does the name 'axolotl' come from?",
+      "options": [
+        "A Spanish explorer",
+        "The Aztec god Xolotl",
+        "The lake where they live",
+        "A Greek word for regeneration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What body parts can an axolotl regenerate?",
+      "options": [
+        "Only their tail",
+        "Only external limbs",
+        "Limbs, heart, spinal cord, and brain sections",
+        "Only skin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet does the axolotl have?",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Omnivore",
+        "They don't need to eat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long can axolotls live?",
+      "options": [
+        "1-2 years",
+        "5-7 years",
+        "10-15 years",
+        "25-30 years"
+      ],
+      "answer": 2
+    }
+  ],
+  "3": [
+    {
+      "question": "What unique vocalization does the snow leopard make instead of roaring?",
+      "options": [
+        "A howl",
+        "A chuff or prusten",
+        "A bark",
+        "A hiss"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why are snow leopards nicknamed 'ghosts of the mountains'?",
+      "options": [
+        "They only come out at night",
+        "They are white like snow",
+        "They are extremely elusive and hard to spot",
+        "They move silently like ghosts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How far can a snow leopard leap horizontally?",
+      "options": [
+        "5 meters",
+        "10 meters",
+        "15 meters",
+        "20 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the snow leopard?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do snow leopards use their long tails for?",
+      "options": [
+        "Attracting mates",
+        "Balance and warmth",
+        "Communicating with other leopards",
+        "Storing fat reserves"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are snow leopards primarily found?",
+      "options": [
+        "Sub-Saharan Africa",
+        "Siberian Taiga",
+        "Central Asia and the Himalayas",
+        "The Canadian Rockies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet does the snow leopard have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore",
+        "Insectivore"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the snow leopard's paw help it survive in its habitat?",
+      "options": [
+        "Retractable claws for climbing trees",
+        "Wide, fur-covered paws that act as snowshoes",
+        "Webbed feet for swimming in glacial streams",
+        "Sticky pads for gripping sheer rock faces"
+      ],
+      "answer": 1
+    }
+  ],
+  "4": [
+    {
+      "question": "How many adult humans could the blue-ringed octopus's venom kill?",
+      "options": [
+        "1",
+        "5",
+        "26",
+        "100"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who actually produces the blue-ringed octopus's venom?",
+      "options": [
+        "The octopus itself",
+        "Bacteria living inside the octopus",
+        "A symbiotic fish",
+        "It is synthesized from its food"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do the flashing blue rings of the octopus signify?",
+      "options": [
+        "It is ready to mate",
+        "It is hungry",
+        "It feels threatened — a warning signal",
+        "It is healthy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the blue-ringed octopus?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Approximately how large is the blue-ringed octopus?",
+      "options": [
+        "The size of a dinner plate",
+        "The size of a football",
+        "The size of a golf ball",
+        "The size of a basketball"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name of the venom produced by the blue-ringed octopus?",
+      "options": [
+        "Batrachotoxin",
+        "Tetrodotoxin",
+        "Ricin",
+        "Conotoxin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the blue-ringed octopus primarily found?",
+      "options": [
+        "Caribbean Sea",
+        "Arctic Ocean",
+        "Indo-Pacific and Australia",
+        "Mediterranean Sea"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Is there an antivenom for the blue-ringed octopus's bite?",
+      "options": [
+        "Yes, widely available",
+        "Yes, but only in Australia",
+        "It is in development",
+        "No, there is currently no antivenom"
+      ],
+      "answer": 3
+    }
+  ],
+  "5": [
+    {
+      "question": "How many types of color photoreceptors do mantis shrimp have?",
+      "options": [
+        "3",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How fast do mantis shrimp claws strike?",
+      "options": [
+        "5 meters per second",
+        "12 meters per second",
+        "23 meters per second",
+        "50 meters per second"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens when a mantis shrimp's strike misses its target?",
+      "options": [
+        "Nothing — missing wastes all the energy",
+        "Cavitation bubbles create a shockwave that can still stun prey",
+        "The water pressure pushes prey toward it",
+        "It immediately strikes again"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What types of light can mantis shrimp perceive?",
+      "options": [
+        "Only visible light",
+        "Visible and infrared",
+        "Ultraviolet and visible only",
+        "Ultraviolet, visible, and infrared simultaneously"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a notable physical feat the mantis shrimp's claws can achieve?",
+      "options": [
+        "Tie knots in rope",
+        "Shatter aquarium glass",
+        "Crack open coconuts",
+        "Cut through steel wire"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the mantis shrimp?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where are mantis shrimp primarily found?",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Sea",
+        "Indo-Pacific coral reefs",
+        "Mediterranean coastlines"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do humans compare to mantis shrimp in color vision?",
+      "options": [
+        "Humans have more photoreceptors",
+        "Humans have the same number",
+        "Mantis shrimp have about 5 times more photoreceptor types",
+        "Mantis shrimp have about 13 times more photoreceptor types"
+      ],
+      "answer": 3
+    }
+  ],
+  "6": [
+    {
+      "question": "What percentage of its body weight can a Komodo dragon eat in one meal?",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How can female Komodo dragons reproduce without a male?",
+      "options": [
+        "Budding",
+        "Parthenogenesis",
+        "Cloning",
+        "They cannot — a male is always required"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was recently discovered about how Komodo dragons kill prey?",
+      "options": [
+        "Purely through bacteria in their saliva",
+        "By crushing prey with their tail",
+        "Through venom glands that prevent blood clotting",
+        "By suffocating prey like a constrictor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the Komodo dragon?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How fast can a Komodo dragon run in short bursts?",
+      "options": [
+        "5 km/h",
+        "10 km/h",
+        "20 km/h",
+        "40 km/h"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where are Komodo dragons found in the wild?",
+      "options": [
+        "Madagascar",
+        "The Philippines",
+        "Lesser Sunda Islands, Indonesia",
+        "Northern Australia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Komodo dragon's distinction among lizards?",
+      "options": [
+        "It is the fastest lizard",
+        "It is the world's largest living lizard",
+        "It is the only venomous lizard",
+        "It is the longest-lived reptile"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of diet does the Komodo dragon have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore",
+        "Insectivore"
+      ],
+      "answer": 2
+    }
+  ],
+  "7": [
+    {
+      "question": "How long can male humpback whale songs last?",
+      "options": [
+        "Up to 1 hour",
+        "Up to 5 hours",
+        "Up to 20 hours",
+        "Up to 3 days"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What unique cooperative hunting technique do humpback whales use?",
+      "options": [
+        "Pack herding",
+        "Bubble net feeding",
+        "Tail slapping",
+        "Echo hunting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How far do humpback whales migrate round trip?",
+      "options": [
+        "Up to 2,000 km",
+        "Up to 6,000 km",
+        "Up to 10,000 km",
+        "Up to 16,000 km"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the conservation status of the humpback whale?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What type of feeding strategy does the humpback whale use?",
+      "options": [
+        "Active predator hunting fish one by one",
+        "Filter feeding",
+        "Scavenging the ocean floor",
+        "Ambush hunting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How much can a humpback whale weigh?",
+      "options": [
+        "Up to 5,000 kg",
+        "Up to 10,000 kg",
+        "Up to 20,000 kg",
+        "Up to 30,000 kg"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which humpback whales are known for singing?",
+      "options": [
+        "Females",
+        "Males",
+        "Only juveniles",
+        "Both males and females equally"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are humpback whales found?",
+      "options": [
+        "Only in the North Atlantic",
+        "Only in the Pacific Ocean",
+        "Only in tropical waters",
+        "In every ocean worldwide"
+      ],
+      "answer": 3
+    }
+  ],
+  "8": [
+    {
+      "question": "What makes the platypus highly unusual among mammals?",
+      "options": [
+        "It can fly short distances",
+        "It lays eggs instead of giving birth to live young",
+        "It has no bones",
+        "It breathes through its skin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do male platypuses have on their hind legs?",
+      "options": [
+        "Suction cups for climbing",
+        "Venomous spurs",
+        "Fins for swimming",
+        "Extra-long claws"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is unusual about the platypus's digestive system?",
+      "options": [
+        "It has four stomachs like a cow",
+        "It digests food outside its body",
+        "It has no stomach — food goes directly to the intestine",
+        "It stores food in cheek pouches"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the platypus detect prey while hunting?",
+      "options": [
+        "By sight — it has exceptional vision",
+        "By echolocation like a bat",
+        "By electroreception through its bill with eyes and ears closed",
+        "By smell using scent glands in its bill"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the platypus?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What group of mammals does the platypus belong to?",
+      "options": [
+        "Marsupials",
+        "Placentals",
+        "Monotremes",
+        "Rodentia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is the platypus found in the wild?",
+      "options": [
+        "New Zealand and Fiji",
+        "Eastern Australia and Tasmania",
+        "Papua New Guinea",
+        "The Philippines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of diet does the platypus have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore",
+        "Filter Feeder"
+      ],
+      "answer": 2
+    }
+  ],
+  "9": [
+    {
+      "question": "What is the lowest temperature an Arctic fox can survive?",
+      "options": [
+        "-20°C",
+        "-40°C",
+        "-70°C",
+        "-100°C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the Arctic fox's coat change between seasons?",
+      "options": [
+        "It stays white all year",
+        "It turns from brown in winter to white in summer",
+        "It turns from white in winter to brown in summer",
+        "It changes based on temperature, not season"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What distinction does the Arctic fox's fur hold?",
+      "options": [
+        "It is waterproof like a duck's feathers",
+        "It has the warmest fur of any mammal relative to body size",
+        "It changes color in under 24 hours",
+        "It glows under ultraviolet light"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the Arctic fox store food for winter?",
+      "options": [
+        "In its cheek pouches",
+        "It doesn't — it relies on hunting year-round",
+        "By caching food in the permafrost, which acts as a natural freezer",
+        "By fattening up in summer and fasting all winter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the Arctic fox?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the Arctic fox's diet?",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Omnivore",
+        "Filter Feeder"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What survival behavior do Arctic foxes share with polar bears?",
+      "options": [
+        "Hibernating together in dens",
+        "Following polar bears to scavenge leftover food",
+        "Swimming together to find fish",
+        "Sharing territory markings"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are Arctic foxes primarily found?",
+      "options": [
+        "Antarctic Peninsula",
+        "Siberian forests",
+        "Scandinavian mountains",
+        "The Arctic Circle"
+      ],
+      "answer": 3
+    }
+  ],
+  "10": [
+    {
+      "question": "How long do African elephants typically live in the wild?",
+      "options": [
+        "20-30 years",
+        "40-50 years",
+        "60-70 years",
+        "80-90 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet does the African elephant have?",
+      "options": [
+        "Carnivore",
+        "Herbivore",
+        "Omnivore",
+        "Insectivore"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Approximately how many muscles are in an elephant's trunk?",
+      "options": [
+        "Over 5,000",
+        "Over 15,000",
+        "Over 40,000",
+        "Over 100,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the African elephant?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many hours per day do African elephants typically sleep?",
+      "options": [
+        "2-3 hours",
+        "6-8 hours",
+        "10-12 hours",
+        "14-16 hours"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What special ability shows that elephants have self-awareness?",
+      "options": [
+        "They can count",
+        "They can recognize themselves in mirrors",
+        "They can predict weather",
+        "They can swim underwater"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do African elephants primarily live?",
+      "options": [
+        "South America",
+        "Southeast Asia",
+        "Sub-Saharan Africa",
+        "Australia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What behavior do elephants exhibit when a family member dies?",
+      "options": [
+        "They immediately leave the area",
+        "They mourn and return to the bones",
+        "They become aggressive",
+        "They stop eating for weeks"
+      ],
+      "answer": 1
+    }
+  ],
+  "11": [
+    {
+      "question": "What type of diet does the red panda primarily have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore",
+        "Insectivore"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What special adaptation helps red pandas grasp bamboo?",
+      "options": [
+        "Webbed toes",
+        "A false thumb",
+        "A prehensile tail",
+        "Retractable claws"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are red pandas primarily found?",
+      "options": [
+        "South America",
+        "Eastern Himalayas and Southwestern China",
+        "Central Africa",
+        "Northern Canada"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the red panda?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do red pandas use their tails in cold weather?",
+      "options": [
+        "To attract mates",
+        "To balance while swimming",
+        "As blankets to keep warm",
+        "To store fat"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where do red pandas spend much of their lives?",
+      "options": [
+        "Underground burrows",
+        "Open grasslands",
+        "In the forest canopy",
+        "Riverbanks"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Are red pandas closely related to giant pandas?",
+      "options": [
+        "Yes, they are close relatives",
+        "No, they are not closely related",
+        "Yes, but only genetically",
+        "They are actually the same species"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When are red pandas most active?",
+      "options": [
+        "Only during midday",
+        "At dawn, dusk, and night",
+        "Only in the morning",
+        "Only during storms"
+      ],
+      "answer": 1
+    }
+  ],
+  "12": [
+    {
+      "question": "What is the fennec fox best known for?",
+      "options": [
+        "Its striped fur",
+        "Its ability to swim",
+        "Its enormous ears",
+        "Its venomous bite"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is the fennec fox primarily found?",
+      "options": [
+        "Amazon Rainforest",
+        "Sahara Desert",
+        "Arctic tundra",
+        "Australian Outback"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the fennec fox?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How do the fennec fox's ears help it survive?",
+      "options": [
+        "They store water",
+        "They help it fly",
+        "They help hear prey underground and release heat",
+        "They warn other foxes with flashing colors"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet does the fennec fox have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore",
+        "Filter Feeder"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What protects a fennec fox's feet from hot sand?",
+      "options": [
+        "Scales",
+        "Hardened claws",
+        "Thick fur",
+        "Webbing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the fennec fox get much of its moisture?",
+      "options": [
+        "From ocean water",
+        "From rain it stores underground",
+        "From the food it eats",
+        "From cactus sap only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the fennec fox usually live socially?",
+      "options": [
+        "Always alone",
+        "In large migratory packs",
+        "In family groups in burrows",
+        "Only in pairs during winter"
+      ],
+      "answer": 2
+    }
+  ],
+  "13": [
+    {
+      "question": "What is the peregrine falcon famous for?",
+      "options": [
+        "Being the largest bird",
+        "Being the fastest animal on Earth",
+        "Living underwater",
+        "Mimicking human speech"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does a peregrine falcon usually hunt?",
+      "options": [
+        "By digging for prey",
+        "By diving at high speed to strike birds in flight",
+        "By ambushing fish underwater",
+        "By trapping prey in webs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are peregrine falcons found?",
+      "options": [
+        "Only in North America",
+        "Only in Europe",
+        "On every continent except Antarctica",
+        "Only in deserts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the conservation status of the peregrine falcon?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What kind of habitat have peregrine falcons adapted to in modern times?",
+      "options": [
+        "Deep caves only",
+        "Urban areas with tall buildings",
+        "Only tropical jungles",
+        "Underground burrows"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do peregrine falcons mostly eat?",
+      "options": [
+        "Fruit",
+        "Fish only",
+        "Other birds",
+        "Grass and seeds"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What natural nesting sites do tall city buildings resemble for peregrine falcons?",
+      "options": [
+        "Reefs",
+        "Cliffs",
+        "Tree hollows",
+        "Sand dunes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What helped peregrine falcon populations recover?",
+      "options": [
+        "Warmer winters only",
+        "Pesticide bans and conservation efforts",
+        "A new food source in cities",
+        "Volcanic eruptions"
+      ],
+      "answer": 1
+    }
+  ],
+  "14": [
+    {
+      "question": "What is the leafy sea dragon best known for?",
+      "options": [
+        "Its electric shock",
+        "Its leaf-like camouflage",
+        "Its powerful bite",
+        "Its glowing eyes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the leafy sea dragon found naturally?",
+      "options": [
+        "Southern Australia",
+        "Caribbean Sea",
+        "North Atlantic Ocean",
+        "Arctic waters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the conservation status of the leafy sea dragon?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are the leafy sea dragon's appendages mainly used for?",
+      "options": [
+        "Swimming at high speed",
+        "Defense by stinging prey",
+        "Camouflage",
+        "Digging nests"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does the leafy sea dragon move through the water?",
+      "options": [
+        "With strong tail strokes",
+        "By using nearly transparent fins",
+        "By jet propulsion",
+        "By hopping across the seafloor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How good of a swimmer is the leafy sea dragon?",
+      "options": [
+        "It is an extremely fast swimmer",
+        "It is a poor swimmer and relies on camouflage",
+        "It can outswim sharks",
+        "It only swims backward"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What animals are leafy sea dragons closely related to?",
+      "options": [
+        "Sharks",
+        "Jellyfish",
+        "Seahorses",
+        "Tuna"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who carries the eggs in leafy sea dragons?",
+      "options": [
+        "The female only",
+        "Both parents equally",
+        "The male",
+        "Neither parent"
+      ],
+      "answer": 2
+    }
+  ],
+  "15": [
+    {
+      "question": "Why is the golden poison frog especially famous?",
+      "options": [
+        "It is the biggest frog in the world",
+        "It is one of the most toxic animals on Earth",
+        "It can survive in freezing weather",
+        "It glows in the dark"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the golden poison frog found?",
+      "options": [
+        "Madagascar",
+        "Pacific Coast of Colombia",
+        "Borneo",
+        "Northern Australia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the golden poison frog?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the frog's bright coloration?",
+      "options": [
+        "To attract insects",
+        "To warn predators",
+        "To hide in flowers",
+        "To stay warm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of diet does the golden poison frog have?",
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Omnivore",
+        "Filter Feeder"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What often happens to golden poison frogs in captivity?",
+      "options": [
+        "They grow much larger",
+        "They become fully aquatic",
+        "They usually become far less toxic",
+        "They lose their bright colors immediately"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What kind of toxin does the golden poison frog carry?",
+      "options": [
+        "A toxin in its skin",
+        "A venom injected through fangs",
+        "A poisonous gas",
+        "A toxin in its bones only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How was the golden poison frog's toxin historically used?",
+      "options": [
+        "As medicine",
+        "On blowgun darts",
+        "To preserve food",
+        "As a fish attractant"
+      ],
+      "answer": 1
+    }
+  ],
+  "16": [
+    {
+      "question": "What is the narwhal often called?",
+      "options": [
+        "The sea dragon",
+        "The unicorn of the sea",
+        "The king of whales",
+        "The Arctic spear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a narwhal's tusk actually?",
+      "options": [
+        "A horn made of bone",
+        "A giant tooth",
+        "A modified fin",
+        "A piece of cartilage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the narwhal?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What may the narwhal's tusk help it detect?",
+      "options": [
+        "Only sound waves",
+        "Subtle environmental changes",
+        "Magnetic storms only",
+        "The location of the moon"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do narwhals live?",
+      "options": [
+        "Tropical coral reefs",
+        "Deep Pacific trenches",
+        "Arctic waters",
+        "Mediterranean coastlines"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What do narwhals primarily eat?",
+      "options": [
+        "Seaweed",
+        "Fish, squid, and shrimp",
+        "Plankton only",
+        "Seabird eggs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why were narwhal tusks once valuable in Europe?",
+      "options": [
+        "They were used as fishing hooks",
+        "They were believed to be unicorn horns",
+        "They were used as musical instruments",
+        "They could glow in the dark"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What kind of environment are narwhals specialized for?",
+      "options": [
+        "Warm shallow lagoons",
+        "Rocky freshwater rivers",
+        "Life among shifting sea ice",
+        "Mangrove swamps"
+      ],
+      "answer": 2
+    }
+  ],
+  "17": [
+    {
+      "question": "What kind of bird is the cassowary?",
+      "options": [
+        "A small flying bird",
+        "A flightless bird",
+        "A seabird",
+        "A bird of prey"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the cassowary primarily found?",
+      "options": [
+        "Europe and Asia",
+        "New Guinea and Northeastern Australia",
+        "South America",
+        "Antarctica"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the cassowary in this set?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What makes the cassowary especially dangerous when defending itself?",
+      "options": [
+        "Venomous feathers",
+        "Sharp dagger-like claws",
+        "Electric shocks",
+        "Poisonous breath"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What important ecological role do cassowaries play?",
+      "options": [
+        "Pollinating flowers",
+        "Digging river channels",
+        "Dispersing rainforest seeds",
+        "Controlling ocean algae"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the casque on a cassowary's head thought to help with?",
+      "options": [
+        "Breathing underwater",
+        "Moving through dense vegetation",
+        "Producing songs",
+        "Storing food"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who cares for cassowary eggs and chicks?",
+      "options": [
+        "The female only",
+        "Both parents together",
+        "The male",
+        "Neither parent"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of habitat do cassowaries live in?",
+      "options": [
+        "Tropical rainforest",
+        "Open desert",
+        "Arctic tundra",
+        "Deep ocean"
+      ],
+      "answer": 0
+    }
+  ],
+  "18": [
+    {
+      "question": "What is special about the emperor penguin among penguins?",
+      "options": [
+        "It is the smallest penguin",
+        "It is the tallest and heaviest living penguin",
+        "It can fly short distances",
+        "It lives in deserts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where do emperor penguins live?",
+      "options": [
+        "Greenland",
+        "Antarctica",
+        "Northern Canada",
+        "South Africa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the conservation status of the emperor penguin?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When do emperor penguins breed?",
+      "options": [
+        "During the Antarctic winter",
+        "Only in summer",
+        "Only in spring",
+        "During tropical monsoon season"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who incubates the emperor penguin egg?",
+      "options": [
+        "The female only",
+        "Both parents at once",
+        "The male",
+        "The whole colony"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do emperor penguins stay warm during blizzards?",
+      "options": [
+        "They burrow under snow",
+        "They huddle together in groups",
+        "They grow fur in winter",
+        "They sleep underwater"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How deep can emperor penguins dive?",
+      "options": [
+        "About 50 meters",
+        "About 100 meters",
+        "Over 500 meters",
+        "Over 2,000 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Where is the egg kept during incubation?",
+      "options": [
+        "In a nest of stones",
+        "Buried in ice",
+        "On the male's feet beneath a brood pouch",
+        "Inside a cave"
+      ],
+      "answer": 2
+    }
+  ],
+  "19": [
+    {
+      "question": "What does the giant anteater primarily eat?",
+      "options": [
+        "Fruit and nuts",
+        "Fish and squid",
+        "Ants and termites",
+        "Leaves and bark"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What special body part helps the giant anteater feed?",
+      "options": [
+        "A long sticky tongue",
+        "Venomous teeth",
+        "A crushing beak",
+        "Webbed feet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the conservation status of the giant anteater?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How does the giant anteater protect its large claws while walking?",
+      "options": [
+        "It drags them behind",
+        "It walks on its knuckles",
+        "It folds them into its tail",
+        "It keeps them underwater"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "About how many ants and termites can a giant anteater eat in a day?",
+      "options": [
+        "500",
+        "3,000",
+        "30,000",
+        "300,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does a baby giant anteater often do?",
+      "options": [
+        "Hide underground for a year",
+        "Ride on its mother's back",
+        "Live alone immediately after birth",
+        "Swim behind its mother"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Despite its name, the giant anteater is more closely related to which animals?",
+      "options": [
+        "Wolves and foxes",
+        "Bears and raccoons",
+        "Sloths and armadillos",
+        "Monkeys and apes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet category best fits the giant anteater?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Insectivore",
+        "Filter Feeder"
+      ],
+      "answer": 2
+    }
+  ],
+  "20": [
+    {
+      "question": "What is the Japanese spider crab known for?",
+      "options": [
+        "Being the fastest crab in the world",
+        "Being the largest living arthropod",
+        "Having venomous claws",
+        "Living in freshwater rivers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where is the Japanese spider crab found?",
+      "options": [
+        "Waters around Japan",
+        "Caribbean reefs",
+        "Antarctic coast",
+        "Mediterranean Sea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the conservation status of the Japanese spider crab?",
+      "options": [
+        "Least Concern",
+        "Vulnerable",
+        "Endangered",
+        "Critically Endangered"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How large can the leg span of a Japanese spider crab grow?",
+      "options": [
+        "Up to 1 meter",
+        "Up to 2 meters",
+        "Up to 3.7 meters",
+        "Up to 6 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of diet does the Japanese spider crab have?",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Carnivore only",
+        "Filter Feeder"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How long can some Japanese spider crabs live?",
+      "options": [
+        "About 10 years",
+        "About 25 years",
+        "About 50 years",
+        "Up to 100 years"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How do Japanese spider crabs sometimes camouflage themselves?",
+      "options": [
+        "By burying themselves in sand only",
+        "By changing color like octopuses",
+        "By decorating themselves with sponges and other organisms",
+        "By glowing to match deep-sea light"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do Japanese spider crabs usually feed?",
+      "options": [
+        "As fast active predators",
+        "As slow-moving scavengers",
+        "By filter feeding plankton",
+        "By grazing on floating leaves"
+      ],
+      "answer": 1
+    }
+  ]
+}
