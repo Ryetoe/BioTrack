@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO (pull from final report?)
+BioTrack is a web-based educational platform designed to make learning about wildlife fun, interactive, and accessible for students and educators. The system combines an animal encyclopedia with classroom management tools and various activities.
 
 ## Requirements
 
@@ -90,12 +90,17 @@ On first startup, the backend will automatically create all tables and seed anim
 
 **Note for Windows users:** `make` may not be available by default. You can install it via [Chocolatey](https://chocolatey.org/) (`choco install make`), or run the backend and frontend commands manually — check the `Makefile` for the exact commands.
 
-### Running the tests (TBD)
+To login as an admin, use the credentials:
+* Username: admin
+* Password: admin123
+
+### Running the tests
 
 ```bash
-pytest
+pytest tests/ -v
 ```
 
 ## Credits
 
-TODO (reference group 33)
+Designed by Group 33 (Fall 2025):
+Kirtan Patel, Rudra Patel, and Nisarg Patel
