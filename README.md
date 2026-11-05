@@ -1,5 +1,17 @@
 # BioTrack
 
+## Team & Contributions
+Group project, Spring 2026, University of Illinois Chicago.
+Team: Yash Dhore, Joshua Luce, Ethan Irimiciuc, Shengteng Wu
+
+My contributions:
+- Built the base application structure and frontend API calls to the backend
+- Expanded the animal database and implemented data retrieval from it
+- Developed the custom quiz system and streamlined the quiz flow
+- Built assignment functionality, the teacher dashboard, and classroom management
+- Implemented badges and account progress tracking
+- Led general UI design, layout, and customization
+
 ## Description
 
 BioTrack is a web-based educational platform designed to make learning about wildlife fun, interactive, and accessible for students and educators. The system combines an animal encyclopedia with classroom management tools and various activities.
@@ -15,7 +27,7 @@ BioTrack is a web-based educational platform designed to make learning about wil
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/swu955/biotrack.git
+git clone https://github.com/Ryetoe/biotrack.git
 cd biotrack
 ```
 
